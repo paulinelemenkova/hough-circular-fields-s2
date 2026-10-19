@@ -1,0 +1,10 @@
+numpy==1.26.4
+scipy==1.17.1
+pandas==2.2.3
+rasterio==1.4.4
+pyproj==3.6.1
+scikit-image==0.25.0
+matplotlib==3.9.3
+pillow==12.3.0
+torch==2.14.1
+albumentations
